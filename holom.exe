@@ -98,4 +98,3 @@ websites= ( "notepad",
 )
 if MessageBox("your computer Fbubcked by sKFAxWgI0QIHZNCDhoQ0pQJegQIDhAB",
 "asy"# the title of the error
-destroy cursor
